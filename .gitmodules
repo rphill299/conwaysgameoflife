@@ -1,0 +1,3 @@
+[submodule "apputilities"]
+	path = apputilities
+	url = https://github.com/rphill299/apputilities.git
